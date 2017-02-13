@@ -1,1 +1,1 @@
-A basic example of using Phonegao to capture and display an image
+A basic example of using Phonegap to capture and display an image
